@@ -92,11 +92,11 @@ This will:
 
 ### Running quicksort.py
 
-![Quicksort Demo](screenshots/quicksort.png)
+![Quicksort Demo](quicksort.png)
 
 ### Running empirical_analysis.py
 
-![Empirical Analysis](screenshots/empirical_analysis.png)
+![Empirical Analysis](empirical_analysis.png)
 
 ## References
 
