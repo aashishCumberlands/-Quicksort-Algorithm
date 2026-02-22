@@ -107,11 +107,11 @@ Both algorithms were tested on input sizes of 500, 1,000, 2,000, 5,000, 8,000, a
 
 **Quicksort Demo (quicksort.py):**
 
-![Quicksort Execution](screenshots/quicksort.png)
+![Quicksort Execution](quicksort.png)
 
 **Empirical Analysis (empirical_analysis.py):**
 
-![Empirical Analysis Execution](screenshots/empirical_analysis.png)
+![Empirical Analysis Execution](empirical_analysis.png)
 
 ### 5.3 Results
 
