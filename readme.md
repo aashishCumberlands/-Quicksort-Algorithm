@@ -105,5 +105,4 @@ This will:
 
 ## Author
 
-**[Your Name]**  
-[Your Course] — February 2026
+Aashish Sapkota
